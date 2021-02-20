@@ -152,7 +152,21 @@
     {
       "name": "Menu",
       "definition": "",
-      "url": "https://evergreen.segment.com/components/menu/"
+      "url": "https://evergreen.segment.com/components/menu/",
+      "concepts": [
+        {
+          "name": "basic",
+          "image": "evergreen-menu-basic.png"
+        },
+        {
+          "name": "section",
+          "image": "evergreen-menu-section.png"
+        },
+        {
+          "name": "selection",
+          "image": "evergreen-menu-selection.png"
+        }
+      ]
     },
     {
       "name": "Text Input",

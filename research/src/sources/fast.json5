@@ -72,7 +72,17 @@
     },
     {
       "name": "Menu",
-      "url": "https://explore.fast.design/components/fast-menu"
+      "url": "https://explore.fast.design/components/fast-menu",
+      "concepts": [
+        {
+          "name": "basic",
+          "image": "fast-menu-basic.png"
+        },
+        {
+          "name": "section",
+          "image": "fast-menu-section.png"
+        }
+      ]
     },
     {
       "name": "Progress",

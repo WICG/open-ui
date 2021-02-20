@@ -6,6 +6,24 @@
   "by": "Adobe",
   "components": [
     {
+      "name": "Menu",
+      "url": "https://react-spectrum.adobe.com/react-spectrum/Menu.html",
+      "concepts": [
+        {
+          "name": "basic",
+          "image": "spectrum-menu-basic.png"
+        },
+        {
+          "name": "section",
+          "image": "spectrum-menu-section.png"
+        },
+        {
+          "name": "selection",
+          "image": "spectrum-menu-selection.png"
+        }
+      ]
+    },
+    {
       "name": "Responsive Grid",
       "definition": "A responsive grid allows a layout to change dynamically based on the size of the screen. This also guarantees consistent layouts across Adobe’s products.",
       "url": "https://spectrum.adobe.com/page/responsive-grid/"
