@@ -381,7 +381,7 @@
           "name": "position",
           "description": "Tooltip positioning is based on the anchor element.",
           "image": "material-tooltip-position.png"
-        },
+        }
       ]
     },
     {
