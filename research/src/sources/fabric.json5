@@ -786,7 +786,25 @@
     },
     {
       "name": "Text",
-      "url": "https://developer.microsoft.com/en-us/fabric#/controls/web/text"
+      "definition": "Text is a component for displaying text. You can use Text to standardize text across your web app.",
+      "url": "https://developer.microsoft.com/en-us/fabric#/controls/web/text",
+      "concepts": [
+        {
+          "name": "variant",
+          "openUIName": "size",
+          "image": "fabric-text-variant.png"
+        },
+        {
+          "name": "wrapping",
+          "openUIName": "truncate",
+          "image": "fabric-text-wrap.png"
+        },
+        {
+          "name": "block",
+          "openUIName": "paragraph",
+          "image": "fabric-text-block.png"
+        }
+      ]
     },
     {
       "name": "Themes",

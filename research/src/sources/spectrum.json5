@@ -9,6 +9,30 @@
       "name": "Responsive Grid",
       "definition": "A responsive grid allows a layout to change dynamically based on the size of the screen. This also guarantees consistent layouts across Adobe’s products.",
       "url": "https://spectrum.adobe.com/page/responsive-grid/"
+    },
+    {
+      "name": "Typography",
+      "openUIName": "Text",
+      "url": "https://spectrum.adobe.com/page/heading/",
+      "concepts": [
+        {
+          "name": "classification",
+          "openUIName": "font variant",
+          "image": "spectrum-text-classification.png"
+        },
+        {
+          "name": "weight",
+          "image": "spectrum-text-weight.png"
+        },
+        {
+          "name": "size",
+          "image": "spectrum-text-size.png"
+        },
+        {
+          "name": "code",
+          "image": "spectrum-text-code.png"
+        }
+      ]
     }
   ]
 }

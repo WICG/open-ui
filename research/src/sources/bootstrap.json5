@@ -498,6 +498,60 @@
       ]
     },
     {
+      "name": "Text",
+      "definition": "Common text utilities to control alignment, wrapping, weight, and more.",
+      "url": "https://getbootstrap.com/docs/4.3/utilities/text/",
+      "concepts": [
+        {
+          "name": "alignment",
+          "image": "bootstrap-text-alignment.png"
+        },
+        {
+          "name": "wrapping",
+          "image": "bootstrap-text-wrapping.png"
+        },
+        {
+          "name": "truncate",
+          "image": "bootstrap-text-truncate.png"
+        },
+        {
+          "name": "word break",
+          "openUIName": "wrapping",
+          "image": "bootstrap-text-word-break.png"
+        },
+        {
+          "name": "text transform",
+          "openUIName": "formatting",
+          "image": "bootstrap-text-text-transform.png"
+        },
+        {
+          "name": "weight",
+          "openUIName": "formatting",
+          "image": "bootstrap-text-weight.png"
+        },
+        {
+          "name": "italics",
+          "openUIName": "formatting",
+          "image": "bootstrap-text-italics.png"
+        },
+        {
+          "name": "monospace",
+          "openUIName": "font variant",
+          "image": "bootstrap-text-monospace.png"
+        },
+        {
+          "name": "color reset",
+          "openUIName": "formatting",
+          "image": "bootstrap-text-color-reset.png"
+        },
+        {
+          "name": "text decoration",
+          "openUIName": "formatting",
+          "image": "bootstrap-text-text-decoration.png"
+        }
+      ]
+    },
+    {
       "name": "Toasts",
       "openUIName": "Toast",
       "description": "Lightweight notifications designed to mimic the push notifications that have been popularized by mobile and desktop operating systems.",

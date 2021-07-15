@@ -984,6 +984,30 @@
       "url": "https://www.lightningdesignsystem.com/utilities/grid/"
     },
     {
+      "name": "Text",
+      "url": "https://www.lightningdesignsystem.com/utilities/text/",
+      "concepts": [
+        {
+          "name": "size",
+          "image": "lightning-text-size.png"
+        },
+        {
+          "name": "align",
+          "openUIName": "alignment",
+          "image": "lightning-text-align.png"
+        },
+        {
+          "name": "color",
+          "image": "lightning-text-color.png"
+        },
+        {
+          "name": "font monospace",
+          "openUIName": "font variant",
+          "image": "lightning-text-font-monospace.png"
+        }
+      ]
+    },
+    {
       "name": "Tree Grid",
       "openUIName": "Table",
       "url": "https://www.lightningdesignsystem.com/components/tree-grid",

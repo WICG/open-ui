@@ -504,6 +504,36 @@
         },
         { "name": "elevation", "category": "type", "image": "evergreen-pane-elevation.png" }
       ]
+    },
+    {
+      "name": "Typography",
+      "openUIName": "Text",
+      "url": "https://evergreen.segment.com/foundations/typography",
+      "concepts": [
+        {
+          "name": "size",
+          "image": "evergreen-typography-size.png"
+        },
+        {
+          "name": "muted",
+          "openUIName": "color",
+          "image": "evergreen-typography-muted.png"
+        },
+        {
+          "name": "strong",
+          "openUIName": "formatting",
+          "image": "evergreen-typography-strong.png"
+        },
+        {
+          "name": "small",
+          "openUIName": "size",
+          "image": "evergreen-typography-small.png"
+        },
+        {
+          "name": "code",
+          "image": "evergreen-typography-code.png"
+        }
+      ]
     }
   ]
 }
